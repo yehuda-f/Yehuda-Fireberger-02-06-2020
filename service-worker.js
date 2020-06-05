@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Yehuda-Fireberger-02-06-2020/precache-manifest.6286f97558acf76b78077d4625c9fbe9.js"
+  "/Yehuda-Fireberger-02-06-2020/precache-manifest.c35225ba3a1924b592d49cb59ec07a19.js"
 );
 
 self.addEventListener('message', (event) => {
