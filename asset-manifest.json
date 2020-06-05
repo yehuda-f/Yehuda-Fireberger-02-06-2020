@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yehuda-Fireberger-02-06-2020/frontend/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Yehuda-Fireberger-02-06-2020/frontend/static/js/main.62dd817d.chunk.js",
+    "main.js.map": "/Yehuda-Fireberger-02-06-2020/frontend/static/js/main.62dd817d.chunk.js.map",
+    "runtime-main.js": "/Yehuda-Fireberger-02-06-2020/frontend/static/js/runtime-main.3b95f7be.js",
+    "runtime-main.js.map": "/Yehuda-Fireberger-02-06-2020/frontend/static/js/runtime-main.3b95f7be.js.map",
+    "static/js/2.1b7afd7d.chunk.js": "/Yehuda-Fireberger-02-06-2020/frontend/static/js/2.1b7afd7d.chunk.js",
+    "static/js/2.1b7afd7d.chunk.js.map": "/Yehuda-Fireberger-02-06-2020/frontend/static/js/2.1b7afd7d.chunk.js.map",
+    "index.html": "/Yehuda-Fireberger-02-06-2020/frontend/index.html",
+    "precache-manifest.45434563dc8078aefe23d3f2fb787c05.js": "/Yehuda-Fireberger-02-06-2020/frontend/precache-manifest.45434563dc8078aefe23d3f2fb787c05.js",
+    "service-worker.js": "/Yehuda-Fireberger-02-06-2020/frontend/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Yehuda-Fireberger-02-06-2020/frontend/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1b7afd7d.chunk.js.LICENSE.txt": "/Yehuda-Fireberger-02-06-2020/frontend/static/js/2.1b7afd7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b95f7be.js",
+    "static/js/2.1b7afd7d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.62dd817d.chunk.js"
+  ]
+}
